@@ -1,0 +1,18 @@
+{
+  "ignore_paths": [
+    "scratch",
+    ".scratch",
+    "test/fixtures",
+    "tests/fixtures"
+  ],
+  "allowlist": [
+    "EXAMPLE_API_KEY",
+    "your-api-key-here",
+    "sk-ant-REPLACE_ME",
+    "YOUR_SECRET_HERE",
+    "placeholder",
+    "AKIA_EXAMPLE",
+    "re.compile("
+  ],
+  "ignore_patterns": []
+}
